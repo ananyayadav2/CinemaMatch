@@ -1,4 +1,4 @@
-🎬 CinemaMatch
+🎬 CinemaMatch:
 CinemaMatch is a content-based movie recommendation system built with Python. It suggests movies to users based on their interests by analyzing movie metadata such as genres, keywords, cast, and crew.
 
 🚀 Live Demo
